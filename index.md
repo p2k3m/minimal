@@ -10,32 +10,35 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Manager | Microfocus / OpenText | Jun 2022 - Present
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+•	Lead a team of cloud engineers and architects, overseeing the design, deployment, and maintenance of cloud infrastructure on AWS, Azure, and GCP    
+•	Develop and implement cloud operations strategies, ensuring high availability, scalability, and security of cloud-based applications and services  
+•	Collaborate with cross-functional teams to define and implement cloud best practices, automation, and cost optimization initiatives  
+•	Architected a future roadmap for adopting MLOps practices within the team  
+•	Influence product roadmap to deliver customer & persona(MLOps) centric features  
+•	Manage cloud service providers and vendors, ensuring SLAs are met and issues are resolved promptly  
+•	Monitor and analyze cloud service metrics, identifying areas for improvement and implementing necessary optimizations  
+•	Provide technical guidance and mentorship to team members, fostering their professional growth and development  
 
-## Header 2
+## Cloud Architect | Infoblox | May 2021- June 2022
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+•	Designed and implemented cloud architecture solutions for clients, leveraging AWS, Azure, and GCP services to meet their specific requirements  
+•	Led cloud migration projects, ensuring seamless transition of applications and data from on-premises environments to the cloud  
+•	Developed and implemented cloud security frameworks, incorporating industry best practices and compliance standards  
+•	Built a Self Service SaaS AI/ML platform for the end customers which will empower them to implement any AI/ML use case specific to their needs  
+•	Collaborated with cross-functional teams to define and implement DevOps practices, CI/CD pipelines, and infrastructure automation using Terraform and Ansible   
+•	Provided technical guidance and mentorship to junior team members, promoting knowledge sharing and professional development  
 
-### Header 3
+### Cloud Solutions Architect | Siemens | February 2020 - May 2021
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+•	Worked with clients to understand their business needs and design cloud-based solutions that align with their objectives  
+•	Implemented hybrid cloud architectures, integrating on-premises infrastructure with public cloud services  
+•	Conducted performance analysis and optimization of cloud-based applications, ensuring optimal resource utilization and cost efficiency  
+•	Collaborated with development teams to implement containerization and orchestration solutions using Docker and Kubernetes  
+•	Provided technical support and troubleshooting for cloud-based systems, ensuring high availability and minimal downtime  
+•	Part of Advanced Data Management Research Group in the Siemens Corporate Technology - Research in Digitalization and Automation organization  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
